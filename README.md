@@ -6,6 +6,7 @@ Most of my work so far is web development, with a few games built along the way.
 ## What I work with
 
 **Languages:** HTML, CSS, JavaScript, TypeScript, SQL
+
 **Tools:** Git, GitHub Pages, VS Code
 
 ## Featured projects
